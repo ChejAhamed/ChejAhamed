@@ -1,12 +1,78 @@
-<h1 align="center">Hi 👋, I'm Chej Ahamed</h1>
-<h3 align="center">A passionate Software Developer </h3>
+# Hi there 👋 I'm Chej Ahamed
 
-- 🔭 I’m currently working on [Top-Div-Solutions](https://github.com/JordiTrassi/Top-Div-Solutions)
+💻 Full-Stack Software Engineer | JavaScript & Java | React • Node • MongoDB  
+🌱 Passionate about building scalable, user-focused web applications  
+🌍 Fluent in English, Arabic, and Spanish  
+📍 Based in the UK | Open to remote or hybrid roles  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chej-ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chej-ahamed" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> > </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank">  </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## 💼 Recent Experience
+
+- **INNOTECH LDN** (2023–2024): Developed full-stack applications using MERN stack, collaborated with clients, and led maintenance and optimization efforts.  
+- **IDBS** (2022–2023): Built scalable SaaS systems for the pharmaceutical sector; led Jenkins pipeline automation to improve deployment cycles.  
+- **Skylab Coders** (2021): Designed responsive apps with React, Node, and MongoDB during an intensive bootcamp.
+
+---
+
+## 🧠 Technical Skills
+
+### **Languages & Programming**
+- JavaScript (ES6+), Java, Python, Kotlin, Groovy, HTML5, CSS3, SASS
+
+### **Frontend**
+- React, Redux, React Native, Bootstrap, Next.js
+
+### **Backend**
+- Node.js, Express.js, RESTful APIs
+
+### **Databases**
+- MongoDB, Mongoose, Firebase
+
+### **Testing**
+- Jest, JUnit, React Testing Library, Sonarqube
+
+### **DevOps & Tools**
+- Git, GitHub, Jenkins, CI/CD, Heroku, AWS
+
+### **Design & UI/UX**
+- Figma, BEM methodology, responsive design, WCAG compliance
+
+### **Project Management & Workflow**
+- Agile (Scrum, Kanban), TDD, team collaboration, stakeholder communication
+
+---
+
+## 🛠️ Tech Stack (Visual)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+
+---
+
+## 🌱 Currently Exploring
+
+- TypeScript & Next.js  
+- AWS (Lambda, DynamoDB)  
+- UI component libraries & design systems  
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/chej-ahamed)  
+- ✉️ chejahamed@gmail.com  
+
+---
+
+> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_ – Martin Fowler
