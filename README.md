@@ -1,78 +1,109 @@
-# Hi there 👋 I'm Chej Ahamed
+# 👋 Hi there, I'm Chej Ahamed
 
-💻 Full-Stack Software Engineer | JavaScript & Java | React • Node • MongoDB  
-🌱 Passionate about building scalable, user-focused web applications  
-🌍 Fluent in English, Arabic, and Spanish  
-📍 Based in the UK | Open to remote or hybrid roles  
+💻 Full-Stack Software Engineer | JavaScript & Java | React • Node • MongoDB
+🌱 Passionate about building scalable, user-focused web applications
+🌍 Fluent in English, Arabic, and Spanish
+📍 Based in the UK | Open to remote or hybrid roles
+🔗 [My Portfolio](https://chejahamed.github.io/portfolio/#/home)
 
 ---
 
 ## 💼 Recent Experience
 
-- **INNOTECH LDN** (2023–2024): Developed full-stack applications using MERN stack, collaborated with clients, and led maintenance and optimization efforts.  
-- **IDBS** (2022–2023): Built scalable SaaS systems for the pharmaceutical sector; led Jenkins pipeline automation to improve deployment cycles.  
-- **Skylab Coders** (2021): Designed responsive apps with React, Node, and MongoDB during an intensive bootcamp.
+* **INNOTECH LDN** (2023–Present)
+  Developed and deployed full-stack web apps using the MERN stack. Implemented performance optimizations, Redux for state management, and Jest/RTL for testing.
+
+* **IDBS**
+
+  * *Software Engineer (2022–2023)*: Led CI/CD improvements, built Jenkins pipelines, and contributed to cloud-first SaaS products in pharma.
+  * *Software Engineer (2024)*: Served as a technical escalation point, delivering high-priority bug fixes and stabilizing live SaaS systems.
+
+* **Skylab Coders Academy** (2021)
+  Completed a rigorous full-stack bootcamp. Built web/mobile apps using React, Node, and MongoDB. Focused on SOLID principles, Agile workflow, and clean code.
+
+---
+
+## 🌍 Community Leadership
+
+### **☁️ Cloud Trail Project — Founder & Director**
+
+*A nonprofit initiative teaching digital skills to Sahrawi refugees in Algeria.*
+
+Built to empower youth and women with MERN stack development, cloud basics (AWS), Git, GitHub, and freelancing skills to unlock remote job opportunities. Students progress from computer literacy to real-world app building.
+
+🔗 [cloudtrailproject.org](https://cloudtrailproject.org)
+
+---
+
+## 🎓 Education
+
+* **University of Sussex** (2020–2024)
+  BSc in Computer Science with an industrial year.
+  📚 Focus areas: OOP, Software Engineering, Algorithms, Machine Learning, OS, HCI, and Security.
+
+* **Skylab Code Academy** (2021)
+  Full-stack web development bootcamp focused on Clean Code, SOLID principles, React, Node.js, and Agile delivery.
 
 ---
 
 ## 🧠 Technical Skills
 
-### **Languages & Programming**
-- JavaScript (ES6+), Java, Python, Kotlin, Groovy, HTML5, CSS3, SASS
+### **Languages**
+
+JavaScript (ES6+), Java, Python, Kotlin, Groovy, HTML5, CSS3, SASS
 
 ### **Frontend**
-- React, Redux, React Native, Bootstrap, Next.js
+
+React, Redux, React Native, Bootstrap, Next.js, Responsive Design
 
 ### **Backend**
-- Node.js, Express.js, RESTful APIs
+
+Node.js, Express.js, REST APIs
 
 ### **Databases**
-- MongoDB, Mongoose, Firebase
 
-### **Testing**
-- Jest, JUnit, React Testing Library, Sonarqube
+MongoDB, Mongoose, Firebase
 
-### **DevOps & Tools**
-- Git, GitHub, Jenkins, CI/CD, Heroku, AWS
+### **DevOps & Testing**
 
-### **Design & UI/UX**
-- Figma, BEM methodology, responsive design, WCAG compliance
+Jenkins, Git, GitHub, CI/CD, AWS, Jest, JUnit, Sonarqube
 
-### **Project Management & Workflow**
-- Agile (Scrum, Kanban), TDD, team collaboration, stakeholder communication
+### **Tools & Methodology**
+
+Figma, Agile (Scrum/Kanban), TDD, BEM, WCAG compliance
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Badges
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square\&logo=mongodb)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square\&logo=java)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square\&logo=redux)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square\&logo=jenkins)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square\&logo=figma)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square\&logo=amazon-aws)
 
 ---
 
 ## 🌱 Currently Exploring
 
-- TypeScript & Next.js  
-- AWS (Lambda, DynamoDB)  
-- UI component libraries & design systems  
+* TypeScript & Next.js
+* AWS Lambda + DynamoDB
+* Component libraries & design systems
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/chej-ahamed)  
-- ✉️ chejahamed@gmail.com  
+* 💼 [LinkedIn](https://linkedin.com/in/chej-ahamed)
+* 🌐 [CloudTrailProject.org](https://cloudtrailproject.org)
+* 📬 [chejahamed@gmail.com](mailto:chejahamed@gmail.com)
 
 ---
 
-> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_ – Martin Fowler
+> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler*
+
