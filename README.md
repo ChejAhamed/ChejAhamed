@@ -10,7 +10,10 @@
 
 ## 💼 Recent Experience
 
-* **INNOTECH LDN** (2023–Present)
+* **BRADDOCK GROUP** (2025–Present)
+  Developed and deployed full-stack web apps using the MERN stack. Implemented performance optimizations, Redux for state management, and Jest/RTL for testing.
+
+* **INNOTECH LDN** (2023–2025)
   Developed and deployed full-stack web apps using the MERN stack. Implemented performance optimizations, Redux for state management, and Jest/RTL for testing.
 
 * **IDBS**
