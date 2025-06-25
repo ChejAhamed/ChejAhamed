@@ -4,7 +4,7 @@
 🌱 Passionate about building scalable, user-focused web applications
 🌍 Fluent in English, Arabic, and Spanish
 📍 Based in the UK | Open to remote or hybrid roles
-🔗 [My Portfolio](https://chejahamed.github.io/portfolio/#/home)
+🔗 [My Portfolio](https://chejahamed.com)
 
 ---
 
